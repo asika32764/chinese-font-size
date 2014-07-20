@@ -18,4 +18,4 @@
 
 微軟雅黑體 [一般](http://asika32764.github.io/chinese-font-size/YaHei-normal.html) / [粗體](http://asika32764.github.io/chinese-font-size/YaHei-bold.html)
 
-思源黑體 [一般](http://asika32764.github.io/chinese-font-size/Noto-normal.html) / [粗體](http://asika32764.github.io/chinese-font-size/Noto-bold.html)
+思源黑體 [一般](http://asika32764.github.io/chinese-font-size/Noto-normal.html) / [粗體](http://asika32764.github.io/chinese-font-size/Noto-bold.html) (未安裝的人要等待大約30秒讓瀏覽器下載)
