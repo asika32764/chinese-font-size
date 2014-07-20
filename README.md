@@ -8,6 +8,8 @@
 
 但三大字形在 20-40px 的區段，邊緣反而因為點陣化變得很難看，直到 49px 開始開始有反鋸齒效果才比較美觀。
 
+(2014-07-21) 新增思源黑體，完勝其他字體。
+
 ## 快速連結
 
 新細明體 [一般](http://asika32764.github.io/chinese-font-size/MingLiU-normal.html) / [粗體](http://asika32764.github.io/chinese-font-size/MingLiU-bold.html)
@@ -15,3 +17,5 @@
 微軟正黑體 [一般](http://asika32764.github.io/chinese-font-size/JhengHei-normal.html) / [粗體](http://asika32764.github.io/chinese-font-size/JhengHei-bold.html)
 
 微軟雅黑體 [一般](http://asika32764.github.io/chinese-font-size/YaHei-normal.html) / [粗體](http://asika32764.github.io/chinese-font-size/YaHei-bold.html)
+
+思源黑體 [一般](http://asika32764.github.io/chinese-font-size/Noto-normal.html) / [粗體](http://asika32764.github.io/chinese-font-size/Noto-bold.html)

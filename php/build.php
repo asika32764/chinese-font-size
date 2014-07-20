@@ -6,9 +6,9 @@
  * @license    GNU General Public License version 2 or later; see LICENSE
  */
 
-$font   = 'Microsoft YaHei';
-$weight = 'normal';
-$file   = 'YaHei-' . $weight . '.html';
+$font   = 'Noto Sans';
+$weight = 'bold';
+$file   = 'Noto-' . $weight . '.html';
 $start  = 10;
 $end    = 100;
 
